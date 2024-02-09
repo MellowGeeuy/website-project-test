@@ -43,7 +43,7 @@ header {
 
 .main {
     height: 1000px;
-    margin: 80px 300px;
+    margin: 80px 10em;
 }
 
 .grid1 {
@@ -112,9 +112,6 @@ header {
         grid-template-areas: 
         "A B"
         "C D";
-    }
-    .box {
-        width: 450px; 
     }
 }
 
